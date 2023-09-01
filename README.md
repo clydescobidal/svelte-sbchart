@@ -1,6 +1,6 @@
 <p align="center">
     <img height="250" src="https://raw.githubusercontent.com/clydescobidal/svelte-sbchart/main/images/svelte-sbchart.png?v=1.0.0" alt="Svelte SBChart"><br/>
-    Simple and lightweight baseline chart for svelte 3
+    Simple and lightweight baseline chart for Svelte 3
 </p>
 
 <p align="center">
