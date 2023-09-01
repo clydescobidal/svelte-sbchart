@@ -1,6 +1,6 @@
 {
 	"name": "svelte-sbchart",
-	"description": "A simple baseline charting component for Svelte",
+	"description": "A simple and lightweight baseline charting component for Svelte",
 	"version": "1.0.0",
 	"private": false,
 	"author": {
