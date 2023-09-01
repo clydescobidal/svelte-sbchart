@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/clydescobidal/svelte-sbchart/main/images/svelte-sbchart.png" alt="Svelte SBChart"><br/>
+    <img height="250" src="https://raw.githubusercontent.com/clydescobidal/svelte-sbchart/main/images/svelte-sbchart.png?v=1.0.0" alt="Svelte SBChart"><br/>
     Simple and lightweight baseline chart for svelte 3
 </p>
 
