@@ -28,9 +28,9 @@ npm install svelte-sbchart
 
 ```html
 <template>
-    <div style="width: 500px; height: 230px">
-	    <SvelteSBChart {series} {baseValue} {options} />
-    </div>
+<div style="width: 500px; height: 230px">
+    <SvelteSBChart {series} {baseValue} {options} />
+</div>
 </template>
 ```
 
