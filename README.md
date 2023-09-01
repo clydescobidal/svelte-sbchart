@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.npmjs.com/package/svelte-sbchart"><img src="https://badge.fury.io/js/svelte-sbchart.svg?v=1.0.5" alt="NPM Package"></a>
+    <a href="https://www.npmjs.com/package/svelte-sbchart"><img src="https://badge.fury.io/js/svelte-sbchart.svg?v=1.0.2" alt="NPM Package"></a>
     <img src="https://github.com/clydescobidal/svelte-sbchart/actions/workflows/build.yml/badge.svg" alt="Build">
     <img src="https://img.shields.io/npm/l/svelte-sbchart" alt="License">
     <img src="https://img.shields.io/npm/dm/svelte-sbchart" alt="Monthly downloads">
