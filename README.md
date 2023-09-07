@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/npm/l/svelte-sbchart" alt="License">
     <img src="https://img.shields.io/npm/dm/svelte-sbchart" alt="Monthly downloads">
     <img src="https://img.shields.io/npm/dt/svelte-sbchart" alt="Total downloads">
-    <img src="https://packagequality.com/shield/svelte-sbchart.svg" alt="Quality">
 </p>
 
 
